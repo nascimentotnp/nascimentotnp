@@ -38,7 +38,7 @@ jobs:
     steps:
       - name: generate-snake-game-from-github-contribution-grid
         id: snake-gif
-        uses: Platane/snk@master
+        uses: nascimentotnp/snk@master
         with:
           github_user_name: nascimentotnp
           gif_out_path: dist/github-contribution-grid-snake.gif
