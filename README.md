@@ -1,4 +1,4 @@
-### Olá eu sou o Thiago Nascimento desenvolvedor Java Júnior👋
+### Olá eu sou o Thiago Nascimento desenvolvedor FullStack Júnior👋
 
 
 - 🔭 Atualmente estou cursando Análise e desenvolvimento de software.
