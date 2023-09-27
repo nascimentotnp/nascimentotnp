@@ -18,15 +18,6 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, especialmente pelo mundo do desenvolvimento web e back-end. Ao longo da minha jornada, adquiri habilidades em diversas linguagens e tecnologias, incluindo Java e Python.
 
-## Projetos Destacados
-
-- [Projeto X](https://github.com/nascimentotnp/projeto-x): Descrição breve do projeto e suas principais características.
-- [Projeto Y](https://github.com/nascimentotnp/projeto-y): Mais informações sobre outro projeto relevante.
-
-## Portfólio
-
-Confira meu portfólio em [thiagonascimento.dev](https://thiagonascimento.dev) para ver mais detalhes sobre meus projetos e trabalhos anteriores.
-
 ## Entre em Contato
 
 Você pode entrar em contato comigo através das seguintes redes sociais:
