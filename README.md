@@ -1,4 +1,4 @@
-### Olá! Eu sou Thiago Nascimento, desenvolvedor FullStack 👋
+### Olá! Eu sou Thiago Nascimento, desenvolvedor Java, Python, React, Angular, TypeScript, JavaScrypt, Banco Relacional 👋
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Software.
 - 🌱 Estou sempre buscando conhecimento, especialmente em Back-end.
