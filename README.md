@@ -6,7 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/nascimentotnp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimentotnp&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentotnp&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimentotnp&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   </a>
   
   <a href="https://github.com/nascimentotnp">
