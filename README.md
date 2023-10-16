@@ -36,8 +36,4 @@ Sou um desenvolvedor apaixonado por tecnologia, especialmente pelo mundo do dese
 
 ## Entre em Contato
 
-Você pode entrar em contato comigo através das seguintes redes sociais:
 
-- [Instagram](https://instagram.com/euxiago)
-- [E-mail](mailto:nascimentotnp@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/nascimentotnp)
